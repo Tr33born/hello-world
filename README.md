@@ -1,2 +1,3 @@
 # hello-world
 first attempt at using git hub 
+making more edits in the page, still dont reall know whats giong on...
